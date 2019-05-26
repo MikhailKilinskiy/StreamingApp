@@ -1,0 +1,13 @@
+*/.idea
+*.iml
+*/target
+
+#Gradle
+*/build/
+*/gradle/
+*/.gradle/
+
+# Package Files #
+*.jar
+*.war
+*.ear
